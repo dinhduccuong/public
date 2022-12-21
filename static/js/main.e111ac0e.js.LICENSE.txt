@@ -1,6 +1,13 @@
 /* NProgress, (c) 2013, 2014 Rico Sta. Cruz - http://ricostacruz.com/nprogress
  * @license MIT */
 
+/*!
+ * Quill Editor v1.3.7
+ * https://quilljs.com/
+ * Copyright (c) 2014, Jason Chen
+ * Copyright (c) 2013, salesforce.com
+ */
+
 /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
 
 /**
@@ -74,7 +81,7 @@
  */
 
 /**
- * React Router DOM v6.3.0
+ * @remix-run/router v1.0.4
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -85,7 +92,7 @@
  */
 
 /**
- * React Router v6.3.0
+ * React Router DOM v6.4.4
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -95,7 +102,18 @@
  * @license MIT
  */
 
-/** @license MUI v5.8.7
+/**
+ * React Router v6.4.4
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/** @license MUI v5.10.16
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
